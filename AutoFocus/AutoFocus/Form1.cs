@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace AutoFocus
 {
-    public partial class Form1 : Form
+    public partial class SetFocus : Form
     {
-        public Form1()
+        public SetFocus()
         {
             InitializeComponent();
         }
